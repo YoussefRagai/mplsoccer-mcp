@@ -1,0 +1,10 @@
+mcp[cli]>=1.2.0
+httpx
+mplsoccer>=1.6.0
+matplotlib>=3.8.0
+pandas>=2.2.0
+numpy>=1.26.0
+Pillow>=10.0.0
+scipy>=1.11.0
+uvicorn[standard]>=0.24.0
+starlette>=0.49.1
